@@ -1,0 +1,2 @@
+keep com.google.android.gms.common.*
+keep com.google.android.gms.location.*
